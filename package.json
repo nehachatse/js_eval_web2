@@ -1,0 +1,25 @@
+{
+  "name": "javascript-evaluation",
+  "version": "1.0.0",
+  "description": "evaluation",
+  "main": "index.html",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test",
+    "start": "npm start",
+    "run": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehachatse/js_eval_web2.git"
+  },
+  "author": "neha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nehachatse/js_eval_web2/issues"
+  },
+  "homepage": "https://github.com/nehachatse/js_eval_web2#readme"
+}
